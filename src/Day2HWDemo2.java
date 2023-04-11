@@ -7,5 +7,5 @@ public class Day2HWDemo2 {
 		System.out.println("Pushing second time..");
 	}
 	
-	
+	String team = "Team3";
 }
