@@ -8,4 +8,6 @@ public class Day2HWDemo2 {
 	}
 	
 	String team = "Team3";
+	
+	String lastName = "Valverde";
 }
